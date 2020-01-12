@@ -1,0 +1,398 @@
+还有一题论述： 
+某人最近刚做了肾脏移植，请问需要监测哪些寄生虫病，为什么？ 
+名解： 
+1.hydatid cyst 
+2.hypnozoite 
+3.filariform larva 
+4.zoonosis 
+5.旅行者腹泻 
+
+简答： 
+1。简述人感染弓形虫的可能途径有哪些？ 
+2。列出最重要的三种机会致病寄生虫，并简述人体共同的感染特征 
+3。简述猪肉绦虫病与囊尾蚴病同时寄生于人体的原因，如何防治？ 
+
+论述： 
+1。请列出最重要的能导致贫血的寄生虫种类，并论述各自引起贫血的机制 
+2。不寄生在肠道中却能在粪检中查到的寄生虫有哪些？为什么？ 
+
+
+Trade Off  Hypothesis 
+Disease 
+Hyper Dynemic Shock 
+Dead Space Like Ventilation 
+Shwartzman Reaction 
+MCF 
+Uremia 
+AP 
+肠源性紫绀 
+大题： 
+慢性肾衰 
+原发性高血压 
+肝性脑病假性神经递质学说 
+
+94级： 
+名解： 
+MDF 
+AG 
+Fanconi Syndrom 
+GABA学说 
+AP 
+MHA 
+大题： 
+钙超载的发生机制 
+老年慢性支气管炎发生什么酸碱平衡紊乱及其指标变化、机体代偿 
+慢性肾功能衰竭发生过程及表现 
+
+95级： 
+Pseudo Hyperkalemia 
+AG 
+HSP 
+Calsium Overload 
+Functional Shunt 
+Renal Osteodystrophy 
+大题： 
+休克I期血压变化及代偿意义 
+多器官衰竭发生机制 
+病例讨论：尿毒症 
+
+96级： 
+Fanconi Syndrom 
+Brain Death 
+Molecular Chaperon 
+反常性碱中毒 
+肺性脑病 
+热限 
+3P-test 
+肠源性紫绀 
+Bacterial Translocation 
+大题： 
+休克期微循环的变化 
+病例讨论 
+假性神经递质 
+尿液比重 
+自由基的酶性清除剂 
+低镁血症 
+低磷血症 
+
+97级： 
+名解（全英文） 
+脑死亡 
+混合性酸碱平衡紊乱 
+功能性分流 
+肾性骨营养不良 
+健康肾单位 
+高输出量性心力衰竭 
+肺性脑病 
+凹陷性水肿 
+无复流现象 
+浓缩性碱中毒 
+简答（发生机制和代谢变化）： 
+肝昏迷 
+休克 
+DIC 
+肾衰 
+兔脑脊液渗出液作用 
+大题： 
+MSOF多系统器官衰竭 
+内毒素 
+
+99级： 
+名解、选择都在练习册上 
+名解：10、37、190、478、861、1082、微血管病性溶血性贫血（英文） 
+简答： 
+端坐呼吸机制 
+乳果糖治疗肝性脑病的机制 
+休克为什么要补液？补液原则？ 
+DIC影响、发生发展因素 
+大题： 
+急性肾衰少尿期代谢障碍 
+钙超载机制 
+根据休克各期的病生特点，阐述补液的原则 
+
+其他：大题：兔脑脊液致DIC原因 
+            试述夜间阵发性呼吸困难的发生机制 
+            PH值正常是否说明没有酸碱失衡 
+00级：选择都在练习册上 
+大题： 
+慢性肾衰水、电解质、酸碱平衡紊乱特点及发生机制 
+休克初期和休克晚期的微循环特点和机体变化 
+阻塞性呼吸困难的类型、呼吸困难的特点及发生机制 
+名解（全英文）：裂体细胞、自分泌、肺性脑病、FAS、肾小球过度滤过学说...... 
+休克难治期与DIC的关系 
+ARDS的机制 
+下半学期： 
+高渗性脱水和低渗性脱水的比较 
+尿毒症时PTH增多的原因及影响 
+GABA hypothesis 
+uremic encephalopathy 
+LP 
+hormone resistance sydrome 
+还有一道名解记不得了 
+shock早期与shock期的联系 
+free radical 产生的机制 
+肺心病的神经-体液的代偿反应
+
+
+
+pharmacology 
+drug 
+pharmacodynomics 
+drug action 
+pharmacological effect 
+adverse reaction 
+side reaction 
+toxic reaction 
+residual effect 
+质反应/量反应 
+质反应量效曲线/量反应量效曲线 
+minimun effective concention 
+maximum efficacy 
+potency 
+ED50 
+LD50 
+therapeutic index ,TI 
+receptor 
+affinity 
+pD2 
+intrinic activity 
+agonist 
+antagonist 
+competitive antagonist 
+noncompetitive contagonist 
+recepter desensitization 
+receptor hypersensitization 
+transport 
+ion trapping 
+absorption 
+first pass elimination 
+distribution/redistribution 
+elimination 
+hepato enteral circulation 
+time-concentration relationship /curve 
+eliminate half life 
+area under the curve,AVE 
+bioavailability 
+一级消除动力学 
+Ke 
+steady state Css 
+plasa clearance CL 
+apparent volum of distribution Vd 
+零级消除动力学 
+
+传出神经系统（第五章-第十一章） 
+
+问答题： 
+阿托品的临床用途，禁忌症 
+β-R阻断药的药理作用 
+
+填空题： 
+毒扁豆碱对眼的三个作用 
+
+小贴士： 
+有两个英文拼写不妨记一下：neostigmin&amp;physostigmin，填空考过两次 
+
+作用于中枢药物（第十四章-第十八章） 
+
+问答题： 
+苯二氮卓类药物的药理作用及临床应用，作用机制 
+5种抗帕金森药的药名及各自机制 
+氯丙嗪药理作用及临床应用 
+比较氯丙嗪，解热镇痛消炎类药对体温作用影响特点及原理 
+
+填空题： 
+氯丙嗪对中枢神经系统的作用，对植物神经系统的影响表现及原理 
+吗啡中毒的原因，治疗心源性哮喘的机制 
+
+小贴士： 
+吗啡和哌替啶虽然没有考过问答题，但是同样重要 
+
+作用于心血管系统药物（第二十一章-第二十六章） 
+
+问答题： 
+奎尼丁的作用，机制，不良反应 
+由折返形成的条件说明，哪几类抗心律失常药可以阻断折返？代表药？ 
+治疗心功能不全有哪几类药？说明理由并各举一例 
+强心苷为何可用于治疗心功能不全？ 
+强心苷的临床应用 
+地高辛的药理作用及机制 
+由心衰的病生说明治疗心衰主要通过哪几个方面？各举一个代表药 
+卡托普里的药理作用，机制，临床应用 
+硝酸甘油，普萘洛尔连用治疗心脏疾病的药理学基础，合用优缺点及注意事项 
+甲基多巴的降压原理 
+血管扩张剂，β-R阻断药，利尿药合用降血压的药理学基础 
+Ca离子桔抗剂治疗高血压的药理学基础及特点 
+可乐定的药理作用及作用机制 
+可乐定，利血平，胍乙啶的降压原理及特点 
+噻嗪类利尿药药理作用，利尿机制 
+
+填空题： 
+维拉帕米的作用机制 
+奎尼丁的作用机制 
+消胆胺的临床应用 
+
+作用于血液系统药物（第二十八章） 
+
+问答题： 
+全面比较肝素，香豆素的异同 
+
+填空题： 
+肝素的作用机制 
+香豆素的用途 
+右旋糖酐的药理作用 
+
+肾上腺皮质激素类药物（第三十四章） 
+
+问答题： 
+糖皮质激素抗炎作用及其与抗炎作用相关因子 
+糖皮质激素抗炎原理，不良反应防治 
+糖皮质激素治疗严重感染的药理学基础，及用于不同感染的注意事项 
+
+胰岛素（第三十六章） 
+
+问答题： 
+胰岛素临床应用，不良反应及产生原因 
+
+抗生素类（第三十七章-第四十二章） 
+
+问答题： 
+3代头孢的作用特点及临床应用特点，各举一代表药 
+氨基甙类抗生素的不良反应及防治，抗菌效应 
+青霉素的临床应用，抗菌谱 
+何谓半合成抗生素？有哪两类？各举一例简述特点 
+从药物来源，抗菌谱，临床应用，不良反应比较头孢菌类和喹诺酮类 
+磺胺类药物的抗菌范围，不良反应及临床应用 
+
+填空题： 
+四环素易沉积于那些部位 
+异烟肼导致中枢神经系统不良反应怎样预防 
+乙胺丁醇的不良反应 
+要考A-光背这些还不够 
+药理学是最需要自己整理的 
+因为选择题和填空题占的比例很大 
+要仔细的看书，尤其是上课笔记提到的那些 
+不要盯着一种药死记硬背，要记得联系和比较 
+比如说，抗心律失常的药物讲了那么多，如果提到一种具体类型的心律失常（比如室性的
+或者室上性的），你知道用什么药最好吗？ 
+再比如说，抗生素学了那么多，你知道尿路感染该用哪些药？胆道感染该用哪些药？绿脓
+杆菌感染该用哪些药？ 
+还有一些东东，不用背的很多，但是一句话就要答到点子上 
+像抗帕金森药那一章，背整整一章的文字还不如背那一章最后的表格。 
+再比如降血脂的药物，问答题不会考但是填空题总会问到，这样在复习的时候最好自己列
+张表格，药名，作用，作用机理，适应症——这样很快就能背下来。 
+如果觉得抗生素那一章很烦也同样可以列表格来背。 
+还有就是一定要熟悉E文，尤其是药名。选择题里会有大量E文药名，不背熟的话光看看就
+晕了。 
+光把问答题和名解做出来，还不能算复习得很好；如果你在做选择题的时候每一题都心里
+有数，基本没有扣分，那样考到A－才比较有希望。 
+
+
+1. In lung percussion, tymany can nit be detected in which of the following ca
+ses? 
+A. nermothorax  
+B. giant bulla 
+C. lung abscess with cavern 
+D. cavity of pulmonaty tuberculosis 
+E. emphysema 
+2 .  A loud S1(increased intensity) is heard in which of the following? 
+A. miteal senosis(MS)  
+B. mitral regurgitation(MR) 
+C. left bundle branch block(LBBB) 
+D. aortic insufficiency(AI) 
+E. tricuspid regurgitation(TR) 
+3.   A fever with a diurnal vatiation of more than 2”C but with no normal rea
+dings. 
+A. continued fever 
+B. recurrent fever 
+C. remittent fever 
+D. intermittent fever 
+E. irregular fever 
+4.   Which of the following options is not the characteristic of exudates? 
+A. content of protein &gt;30g/L 
+B. total cell counts &gt;500*1000000/L 
+C. specific gravity &lt;1.018 
+D. rivalta test (+) 
+E. cloudy 
+5.   Shifting dullness os present when a patient has more than frss fluid in 
+
+the abdorminal cavity. 
+A. 500ml 
+B. 1000ml 
+C. 1500ml 
+D. 2500ml 
+E. 2000ml 
+6.   Which of the following options is true for obstructive jaundice 
+A. urobilinogen (+), urine bilirubin (+) 
+B. urobilinogen (+),urine bilirubin (-) 
+C. urobilinogen (-),urine bilirubin (+) 
+D. urobilinogen (-),urine bilirubin (-) 
+E. none of above 
+7.   Which of the following options belongs to deep sense? 
+A. pain sense 
+B. touch sense 
+C. temperature sense 
+D. position sense 
+E. two-point discrimination sense 
+8.  Which of the following si true regarding the third heart sound(S3)? 
+A. It is a high-pitched sound 
+B. It is a normal finding in the elderly 
+C. It is heard in early systole 
+D. It is associated with atrial dysfunction 
+E. It is best heard at the apex of the heart 
+以下为00七年题特别的题 
+1.   Cough with a great quantity of purulent sputum is the symptom is the symp
+tom 
+of the following diseases ? 
+A. acute pharyngolaryngitis 
+B. bronchiectasis 
+C. acute bronchitis 
+D. pleuritis 
+E. pulmonary tuberculosis 
+2. 原题1 
+3. 原题2 
+4. 原题3 
+5. 原题4 
+6. 原题5 
+7. Spider angioma does NOT occur on the 
+A. face  
+B. neck 
+C. forearms 
+D. shoulders 
+E. umbilicus 
+8.  原题6 
+9.  原题7 
+10. Which one does not belong to vital sign? 
+A. body temperature 
+B. blood pressure  
+C. pulse 
+D. consciousness 
+E. respiration 
+11. Which of the following diease may be accompanied by hemoptysis? 
+A. pulmonary infarction 
+B. angina pectoris 
+C. myocardial infarction 
+D. pericarditis 
+E. pericardial effusion 
+12. 原题8 
+13. Vocal fremitus weakening can be detected in all following dieases except: 
+
+A. emphysema 
+B. obstructive atelectasis 
+C. pleural effusion 
+D. pneumonia 
+E. pleural thickening 
+
+
+
+
+
+
+
+--
+杏林儿女多奇志，敢教非典变经典
+…………………++…………………
+学医坐爱枫林晚，霜叶红于二月花
+…………………++…………………
+我的魔术，你的神奇，上医的岁月
+
+

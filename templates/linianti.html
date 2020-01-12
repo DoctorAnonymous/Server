@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>上海医学院历年题查询</title>
+    <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1,user-scalable=no">
+    <meta name="applicable-device" content="mobile">
+    <link rel="stylesheet" href="{{ static_url('test.css') }}">
+    <link rel="icon" type="image/x-icon" href="{{ static_url('me.jpeg') }}"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+
+<body>
+    <div style="margin-left: 10%; margin-right: 10%; padding: 0">
+        <form id="form1" method="post" action="/" style="overflow:hidden">
+            <div id="toptitle">
+                <h1 class="htitle" id="htitle">
+            上海医学院历年题查询</h1>
+            </div>
+            <div id="divQuestion">
+                <div>
+                    <div class="field-label">1. 科目</div>
+                    <div class="select">
+                        <select name="subject">
+                            {%raw subjects_option%}
+                        </select>
+                    </div>
+                </div>
+                <div>
+                    <div class="field-label">2. 关键词</div>
+                    <div class="ui-input-text" style="position:relative;">
+                        <input type="text" name="keyword" value="{{keyword}}">
+                    </div>
+                </div>
+            </div>
+            <div>
+                <input type="submit" class="button blue" value="提交">
+            </div>
+        </form>
+    </div>
+    <div style="margin-right: 10%;margin-left: 10%">{% raw result %}</div>
+</body>
+
+</html>

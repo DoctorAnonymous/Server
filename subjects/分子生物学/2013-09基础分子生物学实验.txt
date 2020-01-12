@@ -1,0 +1,28 @@
+一概念题
+DNA finger print
+RNA interference
+single nucleotide polymorphism (SNP)
+DNA denaturation
+silencer
+coordinance gene expression
+gene augmentation
+DNA chip
+二简述题
+RT-PCR原理和用途
+基因治疗中基因转移方法
+核酸探针种类以及四种探针标记方法
+制备高质量基因组DNA的关键点
+三简答题
+基因敲除动物的制备过程及应用
+western blot的原理过程和应用
+含有抗氨苄青霉素的pBR322质粒和已知目的DNA，在T4连接酶连接后导入大肠杆菌，在含有
+氨苄青霉素平板上长出菌落，问可能有几种不同质粒，如何鉴定
+
+纪念本科最后一场考试吧
+--
+            /\         
+    |_|    /  \    |_|
+   (- -)  /    \  &lt;- -&gt;
+  ==| |=&lt;/      \&gt;=&lt; &gt;==
+    / \            | |
+※ 来源:·日月光华 bbs.fudan.edu.cn·FROM: [

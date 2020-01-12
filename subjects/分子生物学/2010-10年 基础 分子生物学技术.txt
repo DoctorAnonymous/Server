@@ -1,0 +1,19 @@
+名解
+cis-acting element,transgenic animal,gene replacement,housekeeping gene
+基因组,基因诊断,报告基因,同尾酶
+
+简答
+DNA芯片的基本过程和应用
+探针标记放射性及非放射性标记的几种方法，并简述随机引物合成法的基本原理
+PT-PCR的中文全称，原理及应用
+SDS-PAGE中文全称，SDS和浓缩胶的作用
+
+问答
+重组DNA技术的基本过程，以及体外连接DNA的四种方式及其特点
+Sorthern blot只有阳性对照有条带，原因分析及改进办法
+简述三种方法检测肝组织中是否有HBV感染，写出基本过程，关键步骤条件及结果分析。
+（HBV DNA序列，基因和蛋白已知）
+
+
+
+--

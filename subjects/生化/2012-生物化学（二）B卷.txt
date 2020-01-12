@@ -1,0 +1,100 @@
+生物化学（二）B卷
+
+监考 张英
+出题 未知（Have mercy!） 
+
+全英文，选择题26分，名解42分，简答32分
+
+
+选择题（1分*26）
+【考点，重复的表示出了多次】
+
+—— 
+DNA高温，解旋，吸收波长
+——
+DNA和RNA水解，碱性环境
+——
+核糖体
+——
+真核（原核）核糖体
+——
+核酶作用
+——
+DNA组成成分
+——
+DNA双螺旋模型，下列错的是
+——
+真核细胞核中蛋白和DNA合在一起的是什么
+——
+核苷酸合成 PRPP
+——
+核苷酸合成 
+——
+DNA复制
+——
+DNA复制
+——
+转录 rho-相关终止方式
+——
+转录
+——
+翻译
+—— 
+调控
+——
+调控
+色氨酸操纵子
+A可抑制正调控
+B可抑制负调控
+CD可诱导正/负
+E以上都错
+——
+质粒
+——
+重组DNA技术
+vector
+——
+重组DNA技术
+DNA clone
+——
+重组DNA技术
+——
+重组DNA技术
+——
+信号传导
+下列哪个是第二信使 
+——
+信号传导
+ras级联
+——
+信号传导
+下列哪个不是化学信号
+A激素B神经递质C。。。D细胞间连接（？）
+——
+信号传导
+cAMP
+——
+
+名解（3分*14）
+melt temperature
+supercoil
+secend messager
+G protein
+codon
+DNA double helix
+nucleotide
+transposon
+RNA editing
+Aminoacylation（？）
+cis element
+non coding RNA
+gene transfer
+report gene
+
+简答（8分*4）
+1.Simply explain真核生物tRNA结构功能
+2.Simply explain限制性内切酶，vector, host cell在recombinant DNA tool中的role
+3.列举检测一个基因在mRNA层面表达水平的方法
+4.哺乳动物mRNA反转录为cDNA，比较某基因在该动物基因组DNA和cDNA中的区别
+
+--

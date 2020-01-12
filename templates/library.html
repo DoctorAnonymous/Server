@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>淮海工学院图书馆座位预定</title>
+    <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1,user-scalable=no">
+    <meta name="applicable-device" content="mobile">
+    <link rel="stylesheet" href="{{ static_url('test.css') }}">
+    <link rel="icon" type="image/x-icon" href="{{ static_url('me.jpeg') }}"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+
+<body>
+    <div style="margin-left: 10%; margin-right: 10%; padding: 0">
+        <form id="form1" method="post" action="/" style="overflow:hidden">
+            <div id="toptitle">
+                <h1 class="htitle" id="htitle">
+            淮海工学院图书馆座位预定</h1>
+            </div>
+            <div id="divQuestion">
+                <div>
+                    <div class="field-label">基本说明</div>
+                    <div class="ui-input-text" style="position:relative;">
+                        提交预定后从第二天开始进行次日预约，座位号为空则表示停止预约。默认学号与密码相同。
+                    </div>
+                </div>
+                <div>
+                    <div class="field-label">1. 学号</div>
+                    <div class="ui-input-text" style="position:relative;">
+                        <input type="text" name="userID" value="{{userID}}">
+
+                    </div>
+                </div>
+                <div>
+                    <div class="field-label">2. 密码</div>
+                    <div class="ui-input-text" style="position:relative;">
+                        <input type="password" name="passWord" value="{{passWord}}">
+                    </div>
+                </div>
+                <div>
+                    <div class="field-label">3. 座位号</div>
+                    <div class="ui-input-text" style="position:relative;">
+                        <input type="text" name="devID" value="{{devID}}">
+                    </div>
+                </div>
+            </div>
+            <div>
+                <input type="submit" class="button blue" value="提交预定">
+            </div>
+        </form>
+    </div>
+    <script language="javascript">
+        {%raw response%}
+    </script>
+
+</body>
+
+</html>

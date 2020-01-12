@@ -1,0 +1,83 @@
+一、名词解释
+1.  尼氏体(Niss body)
+2.  Microtubule Associated Proteins
+3.  Synaptic plasticity
+4.  Electrical synapse
+5.  Ligand-gated ion channel
+6.  G-protein coupled receptor
+7.  Neurotransmitter
+8.  神经系统化学传递
+9.  神经递质的量子释放
+10. Serotonin
+11. Chemical synapse
+12. Glutamate transporter
+13. 6-OHDA 
+14. Glutamate decarboxylase (GAD)
+15. Choline Acetylcholinesterase (ChAT)
+16. Metabotropic receptor
+17. 囊泡单胺转运体
+18. κ-opioid receptor
+19. exocytosis
+20. endogenous opioids
+21. nongenic effects
+22. cholecystokinin, CCK
+23. tachykinin
+24. IC50
+25. pregnenolone
+26. 3β-HSD
+27. DHEA
+28. 应激源
+29. Excitotoxicity
+30. The basal ganglia
+31. Parkinson's disease
+32. Nigrastrital pathways
+33. 心身疾病
+34. GABA transporter
+35. caspase
+36. 神经肽与经典神经递质的突触后协同作用
+37. β-amyloid
+38. Neurofibrillay tangle
+39. senile plaque
+40. nitric oxide synthase
+
+二、问答题
+1． 试述钠通道和钙通道结构上的共同点。
+2． 神经元与神经胶质细胞有何区别？
+3． 简述EPSP的形成机制
+4． 简述动作电位的形成机制，如加入四乙胺（TEA），动作电位将会怎样变化？
+5． 损毁大鼠蓝斑核、中脑黑质、延髓中缝核群各主要影响哪种递质在中枢内的含量？
+6． Falk-Hillarp technique can be used to locate and number nuclei of DA 
+neurons. Please simply describe the basic principle underlying this 
+technique.
+7． 多巴胺囊泡内通常含有少量去甲肾上腺素（NE），这些NE是在多巴胺囊泡内合成的
+吗？为什么？
+8． 请述5-羟色胺生物合成的过程。
+9． 说明谷氨酸受体的分型特征及其效应？
+10．    What is the difference between GABA transporters and vesicular GABA 
+transporter?
+11．    突触间隙的GABA有哪些去路？
+12．    NO是一种气体信号分子，试比较其与经典的神经递质在代谢过程及作用方式上
+的异同。
+13．    简述GABAA受体在抗焦虑中发挥的作用
+14．    简述神经肽与经典神经递质去甲肾上腺素在代谢特点方面的差别?
+15．    试述SP与纹状体-黑质多巴胺能神经元的作用。
+16．    试述CCK降低吗啡镇痛的作用机制。
+17．    试述内阿片肽的主要分类及其对应的受体。
+18．    请用你已学的知识，在MVD器官上制备含单一 -阿片受体的分析模型。
+19．    如何采用选择性抑制受体分型方法证明兔肠系阿片受体主要为 -受体模 型？
+24. 以GABAA受体为例，简述神经甾体在神经活动中的作用。
+25. 试简述应激致高血压的中枢机制。
+26. 简述细胞凋亡与坏死的异同。
+27. 试说明缺血引起神经细胞死亡的主要机制。
+28. What are the principal neurotransmitters and receptors associated with 
+the basal ganglia? Why？
+29. Can administration of dopamine cure Parkinson's disease? Why?
+30. What is the role of the basal ganglia in relation to the motor thalamus?
+31. Describe the changes of neurotransmitters in AD brain.
+32. Describe the etiology of AD
+33. Are there any relationship between the toxicity of  -amyloid and 
+clinical symptoms? Why？
+34. How is sleep-wake cycle regulated in the brain?
+35. Why do we need sleep?
+ 
+--

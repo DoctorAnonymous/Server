@@ -1,0 +1,39 @@
+ 
+13临五生物化学回忆（欢迎补充！）
+
+一、选择题（50x1=50选择我实在想不起来多少了。于是就翻翻题库，有相似的就列在这里。）
+（有很多历年原题，还有少部分从平时题库里面抽的！！！）
+（不过遇到这种题就弃疗吧 ，因为实在是太偏了，大家都不太会。）
+1，关于组蛋白的说法正确的是？关于组蛋白的说法正确的是？（当时一张卷子出现两道题考了这个东西= =估计是哪里弄错了。我都想不起来哪里讲过的。选项应该就是在下面这段话里。）
+组蛋白（histones）真核生物体细胞染色质中的碱性蛋白质，含精氨酸和赖氨酸等碱性氨基酸特别多，二者加起来约为所有氨基酸残基的1/4。组蛋白与带负电荷的双螺旋DNA结合成DNA-组蛋白复合物。因氨基酸成分和分子量不同，主要分成5类。组蛋白是真核生物染色体的基本结构蛋白，是一类小分子碱性蛋白质，有六种类型：H1、H2A、H2B、H3、H4及古细菌组蛋白，它们富含带正电荷的碱性氨基酸，能够同DNA中带负电荷的磷酸基团相互作用。
+2，mRNA部分顺序和密码子编号为140(CAG),141(CUC),142(UAA),143(CGG),144(UAG),145(AAU)，翻译生成的多肽含有的氨基酸数是？
+3，每种mRNA能识别：一种氨基酸、一种氨基酰tRNA合成酶和一种mRNA密码子
+4，which of the following statements about eukaryotic mRNA is correct?
+They result from extensive processing of their primary transcripts before serving as translation components.
+5, which of the following is true of de novo pyrimidine biosynthesis but not of purine biosynthesis?
+ The base are synthesized while attached to ribose-5- phosphate
+6, 阿糖胞苷通过抑制细胞DNA的合成，干扰细胞的增殖（类似一题，反正很偏）
+7，操纵子调节系统属于：转录水平的调节
+8，（原题呢）All the following enzymes are involved in the citric acid (Krebs) cycle EXCEPT:
+A. fumarate hydratase                B. isocitrate dehydrogenase
+C. succinyl CoA synthetase            D. pyruvate dehydrogenase
+E. citrate synthase
+9，α－螺旋的特点不包含（）
+
+二、名词解释(8x3=24)
+1，β-pleated sheet （Beta折叠）
+2，substrate（底物）
+3，nucleic acid hybridization（核苷酸杂交）
+4，ATP synthase（ATP合成酶）
+5，chaperone（分子伴侣）
+6，asymmetric transcription（不对称转录）
+7，cis-acting element or trans-acting factor（反式作用因子or顺式作用元件）
+
+三、论述题(凑出26分)
+1，论述酶的别构调节和共价修饰两种调节方式的异同。
+2，喂食鸽子。若用不含精氨酸、瓜氨酸的饲料喂食饥饿的鸽子，鸽子血氨升高。若补充精氨酸和瓜氨酸之后，鸽子血氨恢复正常。请你用学过的生化知识解释原因。
+3，论述底物水平磷酸化和氧化磷酸化的区异同。o_O
+4，论述原核生物、真核生物在转录过程中的区别。请从转录起始、转录过程、mRNA成熟等方面论述。
+5，简述乳糖操纵子的调节方式。
+
+--

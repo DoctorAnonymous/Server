@@ -1,0 +1,160 @@
+
+1.	lingual 舌
+2.	laryngeal 喉
+3.	thyroid 甲状腺
+4.	salenus 斜角肌
+5.	thoraco-胸
+6.	pectoral-胸
+7.	humeral 肱
+8.	radial 桡
+9.	ulnar 尺
+10.	interosseous 骨间
+11.	femoral 股
+12.	iliac 髂
+13.	gluteus 臀
+14.	obturator 闭孔
+15.	tibialis 胫
+16.	peroneal腓
+17.	popliteal 腘
+18.	sperm/spermatic 精索
+19.	phrenic膈
+20.	superior/inferior 上/下  ~ thyroid a. 甲状腺上下动脉
+21.	sub-/supra-下/上  supraclaviclar锁骨上submandibular gland下颌下腺
+22.	hypo- hypoglossal n.舌下n
+23.	anterior/posterior 前/后
+24.	lateral 外
+25.	prounda/superficial 深/浅
+26.	internal/external 内/外 external jugular v.颈外静脉
+27.	common 总
+28.	proper 固有
+29.	sheath/ligment/canal/ring/fossa/septum  鞘/韧带/管/环/窝/隔
+30.	dorsal背
+31.	branch/trunck/duct 枝/干/导管
+32.	adductor收肌  ~ longus长收肌
+33.	abductor 展肌 ~ pollicis longus 拇长展
+34.	extensor伸肌
+35.	flexor 屈肌 ~ digitorum longus 趾长屈肌~ hallucis longus 姆长屈肌
+36.	胫趾动神姆
+&amp;#61548;	tibialis posterior
+&amp;#61548;	flexor digitorum longus
+&amp;#61548;	posterior tibial artery
+&amp;#61548;	tibial nerve
+&amp;#61548;	flexor hallucis longus
+37.	鼻烟窝
+&amp;#61548;	abductor pollicis longus
+&amp;#61548;	extensor pollicis brevis
+&amp;#61548;	extensor pollicis longus
+38.	腕部肌腱
+&amp;#61548;	Palmaris longus
+&amp;#61548;	flexor carpi ulnaris
+&amp;#61548;	flexor carpi radialis
+&amp;#61548;	flexor digitorum surperficialis
+39.	前臂肌有意义
+&amp;#61548;	pronator teres 正中神经分支穿
+&amp;#61548;	supinator 桡神经深支穿
+&amp;#61548;	coacobrachialis肌皮神经穿
+&amp;#61548;	brachialis肌皮神经走行于其上
+40.	其它
+&amp;#61548;	salenus斜角肌
+&amp;#61548;	piriforiunis 梨状肌
+&amp;#61548;	sartorius缝匠肌
+ 
+
+一、上肢：
+胸肩峰A thoracoacromial artery、胸外侧A lateral pectoral artery、肩胛下A subsc
+apular nerve、旋肩胛Acircumflex scapular artery、胸背A thoracodorsal artery、旋
+肱前A anterior circumflex humeral artery、旋肱后A posterior circumflex humeral
+ artery、头V cephalic vein、肘正中V median cubital vein、贵要V basilica vein、
+肘深V deep cubital vein、腋A axillary artery、肱A brachial artery、肱深A proun
+da brachial artery、尺侧上副A、尺A（肘区、前臂下1/3） ulnar artery、尺A深支 de
+ep branches of ulnar artery、骨间总A common interosseous artery、骨间前A anter
+ior interosseous artery、骨间后A（前臂前区、后区） posterior interosseous arte
+ry、桡A（前区）radial artery、掌浅弓superficial palmar arch、指掌侧总A common 
+palmar digital artery、（拇主要A）、指掌侧固有A proper palmar digital artery、
+正中N median nerve、肌皮N musculocutaneous nerve、尺N ulnar nerve、尺N肘区、尺
+N深支 deep branches of ulnar nerve、腋N axillary nerve、桡N radial nerve、桡N肘
+区、桡N深支 deep branches of radial nerve、桡N浅支superficial branches of radial nerve、胸背N thoracodorsal nerve、胸长N long thoracic nerv
+e、胸前外侧N lateral pectoral nerve、胸前内侧神经 medial pectoral nerve 前臂外
+侧皮N 、前臂内侧皮神经medial cutaneous nerve of the forearm 臂内侧皮神经medial
+ cutaneous nerve of the arm 骨间后N posterior interosseous nerve、指掌侧固有N 
+proper palmaar ditital nerve、正中N返支 recurrent branch of median nerve、肋间
+臂N intercostobrachial nerve 、锁骨下淋巴结（模型）infraclavicular lymph nodes
+、左锁骨下淋巴结（模型）、腋窝淋巴结（模型）axillary lymph nodes胸大肌pectoral
+is major muscle、胸小肌pectoralis minor muscle、三角肌deltoid、喙肱肌coracobra
+chialis、肱二头肌（长头、短头）biceps brachii、肱三头肌triceps brachii（长头、
+内侧头、外侧头）、大圆肌teres major、小圆肌teres minor、背阔肌latissimus dorsi
+、肱肌brachialis、旋后肌supinator、肱桡肌brachioradialis、旋前圆肌pronator ter
+es、桡侧腕屈肌flexor carpi radialis、掌长肌palmaris longus、尺侧腕屈肌flexor c
+arpi ulnaris、指浅屈肌flexor digitorum superficialis、拇长屈肌flexor pollicis longus、指深屈肌flexor digitorum proundus、旋前方肌pronator qua
+ldratus、肱骨肌管P29、四边孔quadrangular space、三边孔triangular space
+
+二、颈部：颈内A internal jugular artery、颈外A external jugular artery、颈总A 
+common carotid a.、颈内V、（颈外V）、锁骨下A subclavian artery、甲状颈干 thyro
+cervical trunck、肩胛上A suprascapular artery、胸廓内A（颈/胸）internal thorac
+ic artery、椎A vertebral artery、颈横A transverse cervical artery、颈深A、甲状
+腺上A superior thyroid artery、甲状腺下A inferior thyroid artery、甲状腺中V mi
+ddle thyroid vein、喉上A superior laryngeal artery、舌A lingual artery、面A fa
+cial artery、颏下A submental artery（枕小N）、耳大N great auricular nerve、（锁
+骨上N supraclaviclar n.）、副N、膈N、迷走N、左喉返N（颈/胸）、右喉返N、喉上N s
+uperior laryngeal nerv、喉上N喉外支external laryngeal brachi of superior laryn
+geal nerver、喉上N喉内支inernal laryngeal brachi of superior laryngeal nerver、
+舌下N hypoglossal nerve、舌N lingual nerve、舌咽N glossaopharyngeal n.、下颌舌
+骨肌N、下颌下N节submendibular ganglion、颈上N节、颈中N节、颈中间N节、星状N节、
+交感干（颈/胸）、臂丛、颈袢胸导管（颈/胸）thoratic duct、下颌下腺导管submandibular duct、甲状腺悬韧带suspensory ligament of thyroid gland、
+二腹肌digastric、斜方肌trapezius、前斜角肌scalenus anterior、斜角肌间隙scalenu
+s fissure、环状软骨cricoid cartilage、甲状软骨thyroid cartilage、胸锁乳突肌ste
+rnocleidomastoid、肩胛舌骨肌omohyoid、胸骨舌骨肌sternohyoid、胸骨甲状肌sternot
+hyroid、颈阔肌platysma、锁骨上淋巴结（模型）supraclaviclar lymph nodes
+
+三、下肢：大隐V great saphenous vein、腹壁浅V superficial epigastric vein、阴部
+外浅V superficial external pudendal vein、旋髂浅V superficial iliac circumflex
+ vein、股内侧浅V superficial medial femoral vein、股外侧浅V superficial latera
+l femoral vein、膝降A、股A femoral artery、股深A profunda femoris artery、旋股
+内A medial femoral circumflex artery、旋股外A lateral femoral circumflex arter
+y、臀上superior gluteal A、V、N臀下 inferior gluteal A、V、阴部内internal pude
+ndal A、V、腘A popliteal artery、小隐V small saphenous vein、胫前A anterior ti
+bial artery、足背A dorsalis pedis artery、胫后A、腓A peroneal artery、隐N saph
+enous nerve、股外侧皮N lateral femoral cutaneous nerve、股内侧肌支N、闭孔N深支
+、闭孔N浅支、闭孔N obturator n、股N、臀上N、臀下N、股后皮N posterior cutaneous
+ nerve of thigh、坐骨N、闭孔内肌支N nerve to the obturator internus muscle 、、
+阴部N、腓总N common peroneal nerve、腓深N、腓浅N、胫N（踝区） tibial nerve、腓
+肠N、卵圆窝、髂胫束iliotibial tract、大收肌腱裂孔/收肌管裂孔 adductor tendinous opening、腹股沟淋巴结（模型）inguinal lymph node、阔筋膜张肌
+ tensor fasciae latae、耻骨肌pectineus、长收肌adductor longus、短收肌adductor 
+brevis、大收肌adductor magnus、股薄肌gracilis、臀大肌gluteus maximus、臀中肌gl
+uteus medius、臀小肌gluteus minimus、梨状肌piriformis、股二头肌biceps femoris、
+半腱肌semitendinosus、半膜肌semimembranosus、股四头肌（股内侧肌、股外侧肌、股中
+间肌、股直肌）quadriceps femoris、胫前前肌tibialis anterior、趾长伸肌extensor 
+digitorum longus、姆长伸肌extensor hallucis longus、腓骨长肌peroneus longus、腓
+骨短肌peroneus brevis、胫骨后肌（腱）tibialis posterior、趾长屈肌（腱）flexor 
+digitorum longus、姆长屈肌（腱）flexor hallucis longus
+
+四、胸部：肺A pulmonary artery 、主A弓 aotic arch、奇V弓、胸主A、奇V azygos ve
+in、半奇V hemiazygos vein、副半奇V accessory hemiazygos vein、P143肋间后A post
+erior intercostal artery 、肋间后V、肋膈隐窝、膈N phrenic n.、左右迷走N vagus 
+nerve、交感N节 sympathetic ganglion、内脏大N great splanchnic nerve、肋间后N、
+A韧带 arterial ligament、食管系膜、食管后隐窝、心包横窦transverse sinus of per
+icardium、心包斜窦oblique sinus of pericardium、心包前下窦 anteroinferior sinu
+s of pericardium
+
+五、腹部：股A femoral artery、股V femoral vein、腹壁下A、（腹壁上A）、腹腔干ce
+laic artery、腹主A abdominal aorta、胃左A left gastric artery、胃右A、脾A sple
+nic artery、脾V、胃网膜左A left gastroepiploic artery、胃网膜右A、胃短A shrot 
+gastric artery、肝总A common hepatic artery、胃十二指肠A gastroduodenal artery
+、肝固有A proper hepatic artery、胰十二指肠上A superior pancreaticoduodenal ar
+tery、胆囊A cystic artery、门V portal vein、肠系膜上superior mesenteric A、V、
+肠系膜下inferior mesenteric A、V、中结肠middle colicA、左结肠A、右结肠A、肾ren
+al A、肾V、卵巢A、卵巢V、精索内internal spermatic AV睾丸A、睾丸V、肾上腺中midd
+le suprarenal artery A、回结肠ilocolic artery A、阑尾A appendicular artery、（
+乙状结肠A sigmoid artery、直肠上A superior rectal artery、下腔V inferior vena 
+cava、闭孔内A、肋下Nsubcostal nerve、髂腹下N iliohypogastric n、髂腹股沟N ilio
+inguinal n、股外侧皮N、股N、生殖股N genitofemoral n.（精索/腹后壁）、闭孔N obt
+urator n、坐骨N sciatic n.、腹腔N节celiac ganglion、弓状线/半环线、腹股沟管皮下环/外环 superficial inguinal ring、腹股沟管内环、联合腱/腹股沟
+镰conjoint tendon、腹股沟韧带、（陷窝韧带）、股环、网膜孔、胃脾韧带（模型）、脾
+肾韧带（模型）、（耻骨梳韧带）、精索、输精管、子宫圆韧带、输尿管ureter、肝肾隐
+窝、（直肠膀胱陷凹、直肠子宫陷凹、子宫膀胱陷凹）、肝总管、胆总管、胆囊管、肝圆
+韧带、肝镰状韧带、腹外斜肌obliquus externus abdominis、腹内斜肌obliquus intern
+us abdominis、腹横肌transversus abdominis、腹横筋膜、腹直肌rectus abdominis、腰
+大肌 
+
+
+--

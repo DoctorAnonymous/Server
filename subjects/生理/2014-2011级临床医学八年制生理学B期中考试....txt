@@ -1,0 +1,17 @@
+ 
+很多都是宝典上的题目==
+【选择题】（20×1=20分）
+【名词解释】（6×5=30分）
+1.	Intrapleural pressure（胸内压）
+2.	Feed-forward（前馈）
+3.	Hemopoietic microenvironment（造血微环境）
+4.	Voltage-gated ion channel（电压门控离子通道）
+5.	Cardiac index（心指数）
+6.	Effective filtration pressure（有效滤过压）
+【简答题】（50分）
+1.	简述神经-肌接头兴奋传递的过程和影响因素。（12分）
+2.	为什么在紧急情况下O型血可以输给其它血型？其潜在的危险性是什么？（8分）
+3.	在心交感神经活动加强时，对心肌的机械特性和电生理特性会产生什么影响？（15分）
+4.	简述氧解离曲线的特征和影响因素。（15分）
+
+--

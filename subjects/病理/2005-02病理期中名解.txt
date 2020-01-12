@@ -1,0 +1,7 @@
+1.atrophy
+2.septicemia
+3.机化（organization）
+4.血栓形成(thrombosis)
+5.间变(anaplasia)
+
+--

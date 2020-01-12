@@ -1,0 +1,23 @@
+ 
+选择题：又细又难
+
+名词解释：
+
+telomere
+liposome
+homebox gene
+macroautophagy
+clathrin
+cell cycle checkpoint
+receptor tyrosine kinase
+microtubule organizing center
+nuclear lamina
+basement membrane
+
+问答题：
+1、请根据脂筏模型解释细胞膜的结构
+2、G蛋白是如何通过构象变化传递信息的
+3、对比蛋白转运到内质网和蛋白转运到线粒体的不同
+4、细胞如何调控CDK
+5、解剖小鼠发现小鼠的肝细胞死亡，如何判断是细胞凋亡导致还是细胞死亡导致
+--

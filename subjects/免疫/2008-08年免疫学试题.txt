@@ -1,0 +1,19 @@
+名解：
+1.TD-AG
+2.TAA
+3.epitope spreading
+4.AICD
+5.TCR-CD3 complex
+6.MAC
+7.PAMP
+8.immunological synapse
+问答：
+1.免疫球蛋白的基本结构和功能。
+2.补体的三种激活途径。
+3.外原性抗原的提呈过程。
+4.I型超敏反应机制。
+5.肿瘤细胞逃逸可能的机制。
+6.CD4+细胞群的分类和功能。
+
+题目很老很死板。
+--
